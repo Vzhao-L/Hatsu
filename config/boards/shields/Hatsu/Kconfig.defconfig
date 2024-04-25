@@ -1,4 +1,4 @@
-if SHIELD_AM_HATSU_LEFT
+if SHIELD_AM_HATSU_RIGHT
 
 config ZMK_KEYBOARD_NAME
 	default "Am-Hatsu"
